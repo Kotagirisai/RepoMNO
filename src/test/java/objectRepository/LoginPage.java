@@ -28,7 +28,7 @@ public class LoginPage{
 
 		return	driver.findElement(eMailField);
 	}
-	//Which you created for above Object(Password Filed Element) as private, need to get those by creating methods as Public(Suppose: It is like Car Gear Box)
+	//Which you created for above Object(Password Field Element) as private, need to get those by creating methods as Public(Suppose: It is like Car Gear Box)
 	public WebElement Epassword () {
 
 		return	driver.findElement(EPassword);
