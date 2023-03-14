@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T06:45:45Z" name="Default suite" finished-at="2023-03-10T06:46:02Z" duration-ms="17244">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T06:45:45Z" name="Default test" finished-at="2023-03-10T06:46:02Z" duration-ms="17244">
+      <class name="Ppack.LoginTest">
+        <test-method signature="LoginTestScript()[pri:0, instance:Ppack.LoginTest@2b175c00]" started-at="2023-03-10T12:15:45Z" name="LoginTestScript" finished-at="2023-03-10T12:16:02Z" duration-ms="16812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestScript -->
+        <test-method is-config="true" signature="Closure()[pri:0, instance:Ppack.LoginTest@2b175c00]" started-at="2023-03-10T12:16:02Z" name="Closure" finished-at="2023-03-10T12:16:02Z" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closure -->
+      </class> <!-- Ppack.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

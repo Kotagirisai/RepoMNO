@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="18820" started-at="2023-03-07T06:30:44Z" finished-at="2023-03-07T06:31:03Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="18820" started-at="2023-03-07T06:30:44Z" finished-at="2023-03-07T06:31:03Z">
+      <class name="M_Pack.One_Test">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:M_Pack.One_Test@64616ca2]" name="Demo" duration-ms="18775" started-at="2023-03-07T12:00:44Z" finished-at="2023-03-07T12:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- M_Pack.One_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
